@@ -8,8 +8,6 @@
 
 <img width="100%" height="30" alt="🦑" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg"> 
 
-<img align="left" width="300" alt="🦑" src="https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.plugin.chess.svg"> 
-
 [<img align="center" width="480" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
 
 <!-- Until that day: https://user-images.githubusercontent.com/22963968/159836902-a7553777-f1e2-49ed-90fc-9721322b3f44.png -->
